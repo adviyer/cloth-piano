@@ -12,7 +12,9 @@ This is the repository for 'Roll Over Beethoven', a foldable piano/keyboard.
 ![image](https://github.com/adviyer/cloth-piano/assets/70266102/f05b19bc-523b-4fa9-88c7-a6b47dae06ca)
 
 Video: [https://twitter.com/i/status/1783915991854157952](https://twitter.com/advaitsi/status/1783915991854157952/video/4)
-Technical Details: [Report](https://drive.google.com/file/d/1HIyTgjkgvv2XR9TGrqnnXt6O3uLKxqBs/view?usp=drive_link)
+
+Technical Details: https://drive.google.com/file/d/1HIyTgjkgvv2XR9TGrqnnXt6O3uLKxqBs/view
+
 **What we used to build it:**
 - STM32 Nucleo L4R5ZI-P microcontroller (1)
 - MPR121 Capacitive Sensors (4)
