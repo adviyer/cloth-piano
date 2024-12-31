@@ -24,3 +24,6 @@ Technical Details: https://drive.google.com/file/d/1HIyTgjkgvv2XR9TGrqnnXt6O3uLK
 - Adafruit Massive Arcade Button with LED (1)
 - XBees (2)
 - Force Sensitive Resistors (5)
+
+Final Project for EECS 373, Winter 2023
+By Arjun Laxman, Advait Iyer, Porvesh Balasubramanian
