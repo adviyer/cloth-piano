@@ -25,5 +25,5 @@ Technical Details: https://drive.google.com/file/d/1HIyTgjkgvv2XR9TGrqnnXt6O3uLK
 - XBees (2)
 - Force Sensitive Resistors (5)
 
-Final Project for EECS 373, Winter 2023
+Final Project for EECS 373, Winter 2023 </br>
 By Arjun Laxman, Advait Iyer, Porvesh Balasubramanian
